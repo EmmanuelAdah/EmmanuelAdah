@@ -1,5 +1,9 @@
 # Well Hello there 👋
 
+<div align="center">
+  <img src="https://tenor.com/bZEGh.gif" width="90%">
+<div />
+
 ### Here's a quick summary about Emmanuel Adah:
 
 * 💬 I'm currently working with Java, Python, Javascript, React, and React Native.
