@@ -1,7 +1,7 @@
 # Hi there, I'm Emmanuel Adah 👋
 
 <div align="center">
-  <img src="https://tenor.com/bZEGh.gif" width="600" alt="Coding GIF">
+  <img src="![code-programming](https://github.com/user-attachments/assets/ab7b9145-dcd9-46cb-ad28-b6979f262d69)" width="600" alt="Coding GIF">
 </div>
 
 ### 🛠️ Tech Stack & Experience
