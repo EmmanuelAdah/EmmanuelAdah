@@ -33,4 +33,5 @@ I am a **Software Engineer** specializing in building scalable systems and high-
 
 ### 📊 GitHub Stats
 ![Emmanuel's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EmmanuelAdah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAdah&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmmanuelAdah&layout=compact&theme=radical)
+![Emmanuel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelAdah&theme=radical)
