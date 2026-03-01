@@ -1,27 +1,36 @@
-# Well Hello there 👋
+# Hi there, I'm Emmanuel Adah 👋
 
 <div align="center">
-  <img src="https://tenor.com/bZEGh.gif" width="90%">
-<div />
+  <img src="https://tenor.com/bZEGh.gif" width="600" alt="Coding GIF">
+</div>
 
-### Here's a quick summary about Emmanuel Adah:
+### 🛠️ Tech Stack & Experience
+I am a **Software Engineer** specializing in building scalable systems and high-performance applications.
 
-* 💬 I'm currently working with Java, Python, Javascript, React, and React Native.
-* ⚡ I currently work in Open Source Projects; System Design & Architectures; and Mobile/Web Development Circles.
-* 🧠 I'm currently learning DevOps and Cloud Engineering.
-* 👥 I'm looking to collaborate on new products, solutions and research.
-* 👤 Fun fact: I just do it, even when my system doesn't want it.
+* **Languages:** `Java`, `Python`, `JavaScript`, `Go`
+* **Frontend:** `React`, `React Native`, `Tailwind CSS`
+* **Backend & Systems:** `Node.js`, `System Design`, `Microservices`
+* **Focus Areas:** Open Source, Cloud Engineering, and DevOps.
 
 ---
 
-## Links
+### 🧠 Current Mission
+* **Learning:** Diving deep into **DevOps & Cloud Engineering** (AWS/GCP, Kubernetes, CI/CD).
+* **Contributing:** Actively looking for **Open Source** collaborations and research-driven products.
+* **Philosophy:** "I just do it, even when my system doesn't want it." (Resilience > Specs).
 
-<a href="mailto:edogbanya02@gmail.com">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" />
-</a>
-<a href="your-whatsapp-link">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/emmanuel-adah-767792312">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" />
-</a>
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+<a href="mailto:edogbanya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-adah-767792312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
