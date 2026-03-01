@@ -26,11 +26,11 @@ I am a **Software Engineer** specializing in building scalable systems and high-
 <p align="left">
 <a href="mailto:edogbanya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/emmanuel-adah-767792312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="YOUR_WHATSAPP_LINK"><img src="https://wa.me/message/2JAJ6FHVMSGAO1?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAdah&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAdah&layout=compact&theme=radical)
