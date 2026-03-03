@@ -1,7 +1,7 @@
 # Hi there, I'm Emmanuel Adah 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab7b9145-dcd9-46cb-ad28-b6979f262d69" width="600">
+  <img src="https://github.com/user-attachments/assets/e76d1520-0095-4f16-bb1d-dd51ac4bc08e" width="600">
 </p>
 
 ### 🛠️ Tech Stack & Experience
