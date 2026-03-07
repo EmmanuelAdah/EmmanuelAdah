@@ -9,7 +9,7 @@ I am a **Software Engineer** specializing in building scalable systems and high-
 
 * **Languages:** `Java`, `Python`, `JavaScript`, `Go`
 * **Frontend:** `React`, `React Native`, `Tailwind CSS`
-* **Backend & Systems:** `Node.js`, `System Design`, `Microservices`
+* **Backend & Systems:** `Spring Boot`, `Node.js -- Express`, `System Design`, `Microservices`
 * **Focus Areas:** Open Source, Cloud Engineering, and DevOps.
 
 ---
