@@ -1,17 +1,17 @@
 # Hi there, I'm Emmanuel Adah 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76d1520-0095-4f16-bb1d-dd51ac4bc08e" width="600">
+  <img src="https://github.com/user-attachments/assets/8ac4a199-30f1-4c7b-a7e4-668192ce3c44" width="600">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Software Engineer & Cloud Engineer** passionate about building **scalable, resilient, and high-performance systems**.
+I am a **Software Engineer** passionate about building scalable, resilient, cloud-native, and high-performance systems.
 
-My core focus lies in **backend engineering, distributed systems, and cloud infrastructure**, where I design and implement reliable architectures that scale seamlessly in production.  
-I enjoy solving complex engineering problems, optimizing performance, and deploying systems with **modern cloud-native technologies** like **Kubernetes**, **Docker**, and **CI/CD pipelines** on **AWS** and **GCP**.
+My core focus lies in **Backend Engineering, Distributed Systems, and Cloud Engineering**, where I design and implement robust architectures that deliver reliability at scale. 
+I enjoy solving complex engineering problems, optimizing system performance, and deploying systems with **modern cloud-native technologies** like **Kubernetes**, **Docker**, and **CI/CD pipelines** on **AWS** and **GCP**.
 
 I believe great software comes from a blend of **strong fundamentals**, **disciplined engineering practices**, and **continuous learning**.
 
@@ -21,18 +21,14 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 
 ### **Languages**
 `Java` • `Python` • `JavaScript` • `Go`
-
 ### **Backend & Systems**
 `Spring Boot` • `Node.js` • `Express` • `REST APIs` • `Microservices` • `Distributed Systems`
-
 ### **Frontend**
 `React` • `React Native` • `Tailwind CSS`
-
 ### **Cloud & DevOps**
 `AWS` • `GCP` • `Docker` • `Kubernetes` • `CI/CD` • `Terraform` • `Linux Server Administration`
-
 ### **Data & Messaging**
-`PostgreSQL` • `MySQL` • `RabbitMQ` • `Redis` • `Event-Driven Architecture`
+`PostgreSQL` • `MySQL` • `MongoDB` • `Supabase` • `Kafka` • `RabbitMQ` • `Redis` • `Event-Driven Architecture`
 
 ---
 
@@ -65,9 +61,10 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 ## 📬 Connect With Me
 
 <p align="left">
-<a href="mailto:edogbanya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/emmanuel-adah-767792312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/message/2JAJ6FHVMSGAO1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:edogbanya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-adah-767792312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/message/2JAJ6FHVMSGAO1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+<a href="https://portfolio-git-main-emmanuel-adahs-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
