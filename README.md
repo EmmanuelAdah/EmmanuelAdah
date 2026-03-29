@@ -22,7 +22,7 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 ### **Languages**
 `Java` • `Python` • `JavaScript` • `Go`
 ### **Backend & Systems**
-`Spring Boot` • `Node.js` • `Express` • `REST APIs` • `Microservices` • `Distributed Systems`
+`Spring Boot` • `Node.js` • `Express` • `FastAPI` • `REST APIs` • `Microservices` • `Distributed Systems`
 ### **Frontend**
 `React` • `React Native` • `Tailwind CSS`
 ### **Cloud & DevOps**
