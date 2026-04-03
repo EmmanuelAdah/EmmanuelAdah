@@ -1,6 +1,7 @@
 # Hi, I'm Emmanuel Adah 👋
 
 <p align="center">
+<img width="625" height="379" alt="software" src="https://github.com/user-attachments/assets/ec561061-14a4-4744-be1f-8e6cf4924741" />
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Cloud+Engineer;Distributed+Systems;Building+Scalable+Systems" />
 </p>
 
