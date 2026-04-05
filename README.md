@@ -21,7 +21,7 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 ## 🛠️ Tech Stack
 
 ### **Languages**
-`Java` • `Python` • `JavaScript` • `Go`
+`Java` • `Python` • `JavaScript` • `SQL`
 ### **Backend & Systems**
 `Spring Boot` • `Node.js` • `Express` • `FastAPI` • `REST APIs` • `Microservices` • `Distributed Systems`
 ### **Frontend**
