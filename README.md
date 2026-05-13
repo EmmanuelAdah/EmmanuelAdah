@@ -28,8 +28,8 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 `React` • `React Native` • `Tailwind CSS`
 ### **Cloud & DevOps**
 `AWS` • `GCP` • `Docker` • `Kubernetes` • `CI/CD` • `Terraform` • `Linux Server Administration`
-### **Data & Messaging**
-`PostgreSQL` • `MySQL` • `MongoDB` • `Supabase` • `Kafka` • `RabbitMQ` • `Redis` • `Event-Driven Architecture`
+### **Data & Real-time Messaging**
+`PostgreSQL` • `MySQL` • `MongoDB` • `Supabase` • `Apache Kafka` • `Apache Pulsar` • `RabbitMQ` • `Websockets` • `Redis` • `Event-Driven Architecture`
 
 ---
 
