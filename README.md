@@ -72,10 +72,7 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 
 ## 📊 GitHub Analytics
 
-![Emmanuel's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EmmanuelAdah&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmmanuelAdah&layout=compact&theme=radical) <br>
-![Emmanuel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelAdah&theme=radical)
-
+![Emmanuel's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EmmanuelAdah&show_icons=true&theme=radical)
 ---
 
 💻 *“Software Engineering is the art of turning complexity into reliability.”*
