@@ -31,6 +31,9 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 ### **Data & Real-time Messaging**
 `PostgreSQL` • `MySQL` • `MongoDB` • `Supabase` • `Apache Kafka` • `Apache Pulsar` • `RabbitMQ` • `Websockets` • `Redis` • `Event-Driven Architecture`
 
+### **AI & Developer Tools**
+`Claude Code` • `Cursor` • `Prompt Engineering` • `LLM Integration (OpenAI/Anthropic APIs)` • `AI-Assisted Development`
+
 ---
 
 ## ☁️ Cloud Engineering Focus
