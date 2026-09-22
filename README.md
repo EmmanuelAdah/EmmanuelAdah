@@ -21,9 +21,9 @@ I believe great software comes from a blend of **strong fundamentals**, **discip
 ## 🛠️ Tech Stack
 
 ### **Languages**
-`Java` • `Python` • `TypeScript` • `JavaScript` • `SQL`
+`Java` • `C#` • `Python` • `JavaScript/TypeScript` • `SQL`
 ### **Backend & Systems**
-`Spring Boot` • `Node.js` • `Express` • `Django` • `REST APIs` • `Microservices` • `Distributed Systems`
+`Spring Boot` • `ASP.NET` • `Node.js` • `Django` • `REST APIs` • `Microservices` • `Distributed Systems`
 ### **Frontend**
 `React` • `React Native` • `Tailwind CSS`
 ### **Cloud & DevOps**
